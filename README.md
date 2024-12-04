@@ -31,3 +31,5 @@ __How It Works:__
 User enters the name of a city in the input field.
 The application sends a request to the OpenWeather API to fetch weather and air quality data.
 The data is processed in the Flask backend and displayed on the user interface.
+
+!(Screenshot 2024-12-04 135149.png)
