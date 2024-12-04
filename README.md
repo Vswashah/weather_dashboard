@@ -33,3 +33,4 @@ The application sends a request to the OpenWeather API to fetch weather and air 
 The data is processed in the Flask backend and displayed on the user interface.
 
 ![Screenshot of Weather Dashboard](Screenshot%202024-12-04%20135149.png)
+![Screenshot of Weather Dashboard](Screenshot%202024-12-04%20140920.png)
